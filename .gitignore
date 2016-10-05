@@ -1,0 +1,8 @@
+# GIT IGNORE FILE
+.vs
+*.user
+packages
+[Bb]in
+[Oo]bj
+*.ncrunchsolution
+*.ncrunchproject

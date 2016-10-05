@@ -6,7 +6,7 @@ namespace CodeReviewDemo.Tests
     [TestClass]
     public class ContentTests
     {
-        private const string Hello = "Goodbye 1";
+        private const string Hello = "Test";
 
         [TestMethod]
         public void CotentGet_Success()

@@ -20,7 +20,7 @@ namespace CodeReviewDemo.Controllers
     {
         public string Get()
         {
-            return "Goodbye 1";
+            return "Test";
         }
     }
 }
